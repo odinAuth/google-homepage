@@ -1,1 +1,1 @@
-This project involves recreating the Google Search page using HTML & CSS using the skills taught in the Odin Project so far. 
+The Odin project assignment: Recreate the google home page using the HTML & CSS skills learned so far. 
