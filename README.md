@@ -1,0 +1,1 @@
+This project involves recreating the Google Search page using HTML & CSS using the skills taught in the Odin Project so far. 
